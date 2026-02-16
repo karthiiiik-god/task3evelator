@@ -1,9 +1,9 @@
-# 📊 Task 3: SQL for Data Analysis
+#  Task 3: SQL for Data Analysis
 
-## 🎯 Objective
+##  Objective
 Use SQL queries to extract and analyze data from an Ecommerce database.
 
-## 🛠 Tools Used
+##  Tools Used
 MySQL
 
 ##  Dataset
